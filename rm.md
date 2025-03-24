@@ -1,1 +1,1 @@
-rm "command"
+`rm` command

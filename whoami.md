@@ -1,1 +1,1 @@
-whoami "command"
+`whoami` command 

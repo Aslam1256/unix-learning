@@ -1,1 +1,1 @@
-grep "command"
+'grep' command

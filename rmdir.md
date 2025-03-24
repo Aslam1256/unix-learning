@@ -1,1 +1,1 @@
-rmdir "command"
+`rmdir` command

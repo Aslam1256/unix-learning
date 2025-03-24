@@ -1,1 +1,1 @@
-clear "command"
+`clear` command

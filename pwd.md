@@ -1,1 +1,1 @@
-pwd "command"
+`pwd` command

@@ -1,1 +1,1 @@
-man "command"
+`mam` command

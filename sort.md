@@ -1,1 +1,1 @@
-sort "command"
+`sort` command

@@ -1,1 +1,1 @@
-wget "command"
+`wget` command

@@ -1,1 +1,1 @@
-mkdir "command"
+# mkdir "command"

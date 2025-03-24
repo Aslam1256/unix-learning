@@ -1,1 +1,1 @@
-ln "command"
+`ln` command

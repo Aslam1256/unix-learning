@@ -1,1 +1,1 @@
-whereis "command"
+`whereis` command

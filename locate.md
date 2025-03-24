@@ -1,1 +1,1 @@
-locate "command"
+'locate' command

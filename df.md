@@ -1,1 +1,1 @@
-df "command"
+'df' command

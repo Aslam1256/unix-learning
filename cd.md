@@ -1,1 +1,1 @@
-cd "command"
+`cd` command

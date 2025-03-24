@@ -1,1 +1,1 @@
-mv "command"
+`mv` command

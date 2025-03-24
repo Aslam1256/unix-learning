@@ -1,1 +1,1 @@
-cat "command"
+`cat` command
